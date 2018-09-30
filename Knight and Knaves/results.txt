@@ -1,0 +1,26 @@
+temp_2
+At least one of us is a Knave
+At least one of us is a Knight
+At least one of Sir Jenny Sir John and I is a Knight
+At least one of Sir Jenny Sir John and I is a Knave
+At least one of Sir Jenny and Sir John is a Knave
+At least one of Sir Jenny and Sir John is a Knight
+
+temp
+at most one of us is a Knight
+at most one of us is a Knave
+At most one of Sir Jenny Sir John and I is a Knight
+At most one of Sir Jenny Sir John and I is a Knave
+At most one of Sir Jenny and Sir John is a Knave
+At most one of Sir Jenny and Sir John is a Knight
+
+temp_4
+Exactly one of us is a Knight
+exactly one of us is a Knave
+Exactly one of Sir Jenny Sir John and I is a Knight
+exactly one of Sir Jenny Sir John and I is a Knave
+Exactly one of Sir Jenny and Sir John is a Knave
+Exactly one of Sir Jenny and Sir John is a Knight
+
+temp_5
+All of us are Knights
